@@ -1,0 +1,2 @@
+# ammm-project
+ALGORITHMIC METHODS FOR MATHEMATICAL MODELS - Final Project
